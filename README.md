@@ -33,6 +33,13 @@ Flatpak, avoid when possible, </br>
 better compiling from source when possible. </br>
 Flatpak follows [Wirth's_law](https://en.wikipedia.org/wiki/Wirth's_law) No mercy. </br>
 
+Advantages: </br>
+Offline is slow 1 time & much faster after, </br>
+using PCIe v5 is way faster vs. Internet. </br>
+installing any software is almost instantly. </bt>
+even using SATA-III SSD 6Gbps 500MB/s is faster vs. internet. </br>
+there is No comparison in speed improvement. </br>
+
 # New Method
 
 Portable Offline Ubuntu 20.04.x LTS Repository </br>
