@@ -26,10 +26,12 @@ There are other mirrors like: </br>
 [packages.ubuntu.com](https://packages.ubuntu.com/) </br>
 [pkgs.org](https://pkgs.org/) </br>
 
-personally i prefer .AppImages when possible, </br>
+personally: </br>
+i prefer .AppImages when possible, </br>
 but Not everything is available as .Appimages </br>
+Repos are a necesary Evil. </br>
 Snap is ok </br>
-Flatpak avoid when possible. </br>
+Flatpak, avoid when possible, better compiling from source when possible. </br>
 
 # New Method
 
