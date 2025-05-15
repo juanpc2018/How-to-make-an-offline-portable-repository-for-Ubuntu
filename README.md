@@ -6,7 +6,7 @@ New method: apt-mirror </br>
 
 Old: </br>
 Pre-Ubuntu 16 </br>
-NEw:
+New: </br>
 Pre-Rust </br>
 Pre-Ubuntu 25 </br> 
 
