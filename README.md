@@ -1,4 +1,4 @@
-# How to make an offline portable repository for Ubuntu
+# How to make an Offline portable repository for Ubuntu
 Ubuntu Offline Complete Portable Repo How to </br>
 
 Old method: debmirror </br> 
