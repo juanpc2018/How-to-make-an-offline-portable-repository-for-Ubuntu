@@ -19,7 +19,7 @@ Ubuntu 20.04.x LTS Complete Repository is 242,453 items, 708.3 GB </br>
 including sources & backports, Not proposed. </br>
 
 In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos 17 and older, Not all, for example: Not 14.04 Trusty Tar </br>
-most have .torrent but Not all. </br>
+most have [.torrent](https://www.qbittorrent.org/download) but Not all. </br>
 Unknown if include sources & backports. </br>
 
 
