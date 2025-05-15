@@ -1,16 +1,15 @@
-# How-to-make-an-offline-portable-repository-for-Ubuntu
-Ubuntu Offline Complete Portable Repo How to
+# How to make an offline portable repository for Ubuntu
+Ubuntu Offline Complete Portable Repo How to </br>
 
-
-this is divided in Old method, and Newer method...
+Old method, and Newer method... </br>
 
 # New Method
 
-Portable Offline Ubuntu 20.04 LTS Repository </br>
+Portable Offline Ubuntu 20.04.x LTS Repository </br>
 
 ```
 install:
-Ubuntu 20.04 LTS
+Ubuntu 20.04.x LTS
 
 sudo apt install apt-mirror
 
