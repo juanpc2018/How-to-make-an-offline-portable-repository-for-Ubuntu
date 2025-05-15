@@ -33,7 +33,7 @@ Architecture:
 $ dpkg --print-architecture 2>/dev/null
 amd64
 
-pre-downloaded packages "if Not clean install" are stored in:
+pre-downloaded packages "if Not clean install" stored in:
 $ cd /var/cache/apt/archives/
 $ ls >> ~/Downloads/var-cache-apt-archives.txt
 
