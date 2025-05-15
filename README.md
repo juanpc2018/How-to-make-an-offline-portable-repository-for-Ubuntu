@@ -1,8 +1,10 @@
 # How to make an offline portable repository for Ubuntu
 Ubuntu Offline Complete Portable Repo How to </br>
 
-Old method: debmirror </br> 
-New method: apt-mirror </br>
+Old method: </br>
+debmirror </br> 
+New method: </br>
+apt-mirror </br>
 
 Old: </br>
 Pre-Ubuntu 16 </br>
