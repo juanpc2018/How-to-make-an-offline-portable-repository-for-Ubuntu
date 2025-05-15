@@ -1293,7 +1293,7 @@ Post Mirror script has completed. See above output for any possible errors.
 
 # Old Method
 
-Old method includes a tutorial to split downloaded repository into several [DVD size images](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) </br>
+[Old method](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) includes a tutorial to split downloaded repository into several [DVD size images](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) </br>
 could also be used if using BluRay 1/2/3/4-layers 25GB to 150GB </br>
 
 
