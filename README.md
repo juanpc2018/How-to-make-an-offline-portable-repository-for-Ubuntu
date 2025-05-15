@@ -31,7 +31,8 @@ i prefer .AppImages when possible, </br>
 but Not everything is available as .Appimages </br>
 Repos are a necesary Evil. </br>
 Snap is ok </br>
-Flatpak, avoid when possible, better compiling from source when possible. </br>
+Flatpak, avoid when possible, </br>
+better compiling from source when possible. </br>
 
 # New Method
 
