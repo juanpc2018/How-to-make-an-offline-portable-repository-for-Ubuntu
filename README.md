@@ -22,6 +22,9 @@ In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there a
 most have [.torrent](https://www.qbittorrent.org/download) but Not all. </br>
 Unknown if include sources & backports. </br>
 
+There are other mirrors like: </br>
+[packages.ubuntu.com/](https://packages.ubuntu.com/) </br>
+[https://packages.org/](https://packages.org/) </br>
 
 # New Method
 
