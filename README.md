@@ -1327,7 +1327,7 @@ Post Mirror script has completed. See above output for any possible errors.
 ----------------------------------------------------------------------
 
 
-# Old Method
+# [Old Method](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460)
 
 ```
     How to make your own Ubuntu Repository DVDs
