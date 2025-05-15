@@ -34,7 +34,7 @@ better compiling from source when possible. </br>
 Flatpak follows [Wirth's_law](https://en.wikipedia.org/wiki/Wirth's_law) No mercy. </br>
 
 Advantage: </br>
-Offline is slow 1 time, but much faster After </br>
+Offline is slow 1 time, but much Faster After </br>
 using PCIe v5 10,000MB/s is way faster vs. Internet. </br>
 installing any software is almost instantly, </br>
 even using SATA-III SSD 6Gbps 500MB/s is way faster vs. internet. </br>
