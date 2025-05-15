@@ -14,10 +14,10 @@ Ubuntu 20.04.x LTS
 sudo apt install apt-mirror
 
 edit:
-$ tea /usr/bin/apt-mirror
-$ tea /etc/apt/mirror.list
+$ sudo tea /usr/bin/apt-mirror
+$ sudo tea /etc/apt/mirror.list
 
-unless you have a 2TB NVMe/SSD as /dev/sda1
+unless you have a >2TB NVMe/SSD as /dev/sda1
 change:
  base_path
 to external HDD.
