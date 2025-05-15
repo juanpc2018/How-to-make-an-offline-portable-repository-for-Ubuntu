@@ -39,6 +39,7 @@ using PCIe v5 10,000MB/s is way faster vs. Internet. </br>
 installing any software is almost instantly, </br>
 even using SATA-III SSD 6Gbps 500MB/s is way faster vs. internet. </br>
 there is No comparison in speed improvement. </br>
+All dependencies available at once. </br>
 
 # New Method
 
