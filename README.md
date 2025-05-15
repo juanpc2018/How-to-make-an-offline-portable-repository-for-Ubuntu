@@ -30,7 +30,7 @@ but Not everything is available as .Appimages </br>
 Repos are a necesary Evil. </br>
 Snap is ok </br>
 Flatpak, avoid when possible, </br>
-better compiling from source when possible. </br>
+better compiling from source if possible. </br>
 Flatpak follows [Wirth's_law](https://en.wikipedia.org/wiki/Wirth's_law) No mercy. </br>
 
 ### Advantage:
