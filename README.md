@@ -26,7 +26,7 @@ Portable Offline Ubuntu 20.04.x LTS Repository </br>
 install:
 Ubuntu 20.04.x LTS
 
-sudo apt install apt-mirror
+$ sudo apt install apt-mirror
 
 edit:
 $ sudo tea /usr/bin/apt-mirror
