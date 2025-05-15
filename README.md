@@ -14,6 +14,7 @@ Pre-Ubuntu 25 </br>
 
 [Old method](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) includes a tutorial to split downloaded repository into several [DVD size images](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) </br>
 could work as a guide if using [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray_Disc_recordable) 25 GB (1-layer), 50 / 66 GB (2-layer) & 100 / 128 GB (4-Layer BDXL) </br>
+
 Ubuntu 20.04.x LTS Complete Repository is 242,453 items, 708.3 GB </br>
 including sources & backports, Not proposed. </br>
 
