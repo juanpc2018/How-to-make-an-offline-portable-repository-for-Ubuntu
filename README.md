@@ -16,10 +16,11 @@ could work as a guide if using [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray_D
 Ubuntu 20.04.x LTS Complete Repository is 242,453 items, 708.3 GB </br>
 including sources & backports, Not proposed. </br>
 
-In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos Ubuntu 17.10 and older, Not all, Not 14.04 LTS (Trusty Tahr), Not 16.04 LTS (Xenial Xerus) </br>
+In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos Ubuntu 17.10 and older, Not all, </br>
+Not 14.04 LTS (Trusty Tahr), Not 16.04 LTS (Xenial Xerus) </br>
 most have [.torrent](https://www.qbittorrent.org/download) Not all. </br>
 Unknown if includes sources & backports. </br>
-according to each mirror.list Default arch i386 </br>
+according to mirror.list Default arch: i386 </br>
 
 There are other mirrors like: </br>
 [packages.ubuntu.com](https://packages.ubuntu.com/) </br>
