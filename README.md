@@ -18,8 +18,9 @@ including sources & backports, Not proposed. </br>
 
 In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos Ubuntu 17.10 & older, Not all... </br>
 Not 14.04 LTS (Trusty Tahr), Not 16.04 LTS (Xenial Xerus) </br>
-most have [.torrent](https://www.qbittorrent.org/download) Not all. </br>
-according mirror.list for 17.10 includes: sources & backports </br>
+20 have [.torrent](https://www.qbittorrent.org/download) 5 Not. </br>
+all have mirror.list </br>
+17.10 includes: sources & backports </br>
 i386, amd64 & others. </br>
 
 There are other mirrors like: </br>
