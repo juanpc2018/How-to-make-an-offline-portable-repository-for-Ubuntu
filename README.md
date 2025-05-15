@@ -1,8 +1,11 @@
 # How to make an offline portable repository for Ubuntu
 Ubuntu Offline Complete Portable Repo How to </br>
 
-Old method with debmirror </br> 
-New method with apt-mirror </br>
+Pre-Rust </br>
+Pre-Ubuntu 25 </br> 
+
+Old method: debmirror </br> 
+New method: apt-mirror </br>
 
 [Old method](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) includes a tutorial to split downloaded repository into several [DVD size images](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) </br>
 could also work as a guide if using [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray) 25 GB (1-layer), 50 / 66 GB (2-layer) & 100 / 128 GB (BDXL) </br>
