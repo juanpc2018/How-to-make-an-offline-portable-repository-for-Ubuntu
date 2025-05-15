@@ -1,7 +1,7 @@
 # How to make an offline portable repository for Ubuntu
 Ubuntu Offline Complete Portable Repo How to </br>
 
-Old method, and Newer method... </br>
+Old method, and New method... </br>
 
 # New Method
 
