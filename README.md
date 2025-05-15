@@ -20,7 +20,7 @@ In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there a
 Not 14.04 LTS (Trusty Tahr), Not 16.04 LTS (Xenial Xerus) </br>
 most have [.torrent](https://www.qbittorrent.org/download) Not all. </br>
 according mirror.list for 17.10 includes: sources & backports </br>
-Default arch: i386, amd64 & others. </br>
+i386, amd64 & others. </br>
 
 There are other mirrors like: </br>
 [packages.ubuntu.com](https://packages.ubuntu.com/) </br>
