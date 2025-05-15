@@ -37,9 +37,9 @@ Flatpak follows [Wirth's_law](https://en.wikipedia.org/wiki/Wirth's_law) No merc
 Offline is slow 1 time, but much Faster After </br>
 using PCIe v5 >10,000MB/s is way faster vs. Internet. </br>
 installing any software is almost instantly, </br>
-even using SATA-III SSD 6Gbps 500MB/s is way faster vs. internet. </br>
+even using SATA-III SSD 6Gbps 500MB/s is way faster vs. average internet. </br>
 there is No comparison in speed improvement. </br>
-All dependencies available at once. </br>
+All dependencies available Now, All at once. </br>
 
 
 # New Method
