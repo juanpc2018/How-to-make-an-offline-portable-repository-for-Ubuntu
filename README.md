@@ -16,7 +16,7 @@ could work as a guide if using [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray_D
 Ubuntu 20.04.x LTS Complete Repository is 242,453 items, 708.3 GB </br>
 including sources & backports, Not proposed. </br>
 
-In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos Ubuntu 17 and older, Not all, example: Not 14.04 (Trusty Tar) </br>
+In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos Ubuntu 17 and older, Not all, Not 14.04 (Trusty Tar) </br>
 most have [.torrent](https://www.qbittorrent.org/download) but Not all. </br>
 Unknown if include sources & backports. </br>
 
