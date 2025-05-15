@@ -54,7 +54,7 @@ $ tea /etc/apt/mirror.list </br>
 ```
 ############# config ##################
 #
-set base_path    /media/jpc/ext4-1.7TB/var/spool/apt-mirror
+set base_path    /media/user/ext4-1.7TB/var/spool/apt-mirror
 #
 # set mirror_path  $base_path/mirror
 # set skel_path    $base_path/skel
@@ -188,7 +188,7 @@ my $config_file;
 my %config_variables = (
     "defaultarch" => `dpkg --print-architecture 2>/dev/null` || 'i386',
     "nthreads"    => 20,
-    "base_path"   => '/media/jpc/ext4-1.7TB/var/spool/apt-mirror',
+    "base_path"   => '/media/user/ext4-1.7TB/var/spool/apt-mirror',
     "mirror_path" => '$base_path/mirror',
     "skel_path"   => '$base_path/skel',
     "var_path"    => '$base_path/var',
@@ -1285,12 +1285,12 @@ Begin time: Wed May 14 16:17:37 2025
 End time: Wed May 14 19:48:11 2025
 
 0 bytes in 0 files and 0 directories can be freed.
-Run /media/jpc/ext4-1.7TB/var/spool/apt-mirror/var/clean.sh for this purpose.
+Run /media/user/ext4-1.7TB/var/spool/apt-mirror/var/clean.sh for this purpose.
 
 Running the Post Mirror script ...
-(/media/jpc/ext4-1.7TB/var/spool/apt-mirror/var/postmirror.sh)
+(/media/user/ext4-1.7TB/var/spool/apt-mirror/var/postmirror.sh)
 
-/bin/sh: 0: Can't open /media/jpc/ext4-1.7TB/var/spool/apt-mirror/var/postmirror.sh
+/bin/sh: 0: Can't open /media/user/ext4-1.7TB/var/spool/apt-mirror/var/postmirror.sh
 
 Post Mirror script has completed. See above output for any possible errors.
 ```
