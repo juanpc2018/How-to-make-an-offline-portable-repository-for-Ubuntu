@@ -17,7 +17,8 @@ Ubuntu 20.04.x LTS Complete Repository is 242,453 items, 708.3 GB </br>
 including sources & backports, Not proposed. </br>
 
 In [Web Archive](https://archive.org/details/@chris85?query=ubuntu+repo) there are 25 repos Ubuntu 17.10 & older, Not all... </br>
-Not 14.04 LTS (Trusty Tahr), Not 16.04 LTS (Xenial Xerus) </br>
+Not 14.04 LTS (Trusty Tahr), </br>
+Not 16.04 LTS (Xenial Xerus) </br>
 20 have [.torrent](https://www.qbittorrent.org/download) 5 Not. </br>
 all have mirror.list </br>
 17.10 includes: sources & backports </br>
