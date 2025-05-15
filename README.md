@@ -1237,6 +1237,8 @@ if ( get_variable("run_postmirror") )
 unlock_aptmirror();
 ```
 
+----------------------------------------------------
+
 run: </br>
 $ sudo apt-mirror </br>
 
