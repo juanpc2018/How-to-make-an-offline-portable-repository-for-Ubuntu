@@ -8,7 +8,7 @@ Old method: debmirror </br>
 New method: apt-mirror </br>
 
 [Old method](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) also includes a tutorial to split downloaded repository into several [DVD size images](https://web.archive.org/web/20160320113042/https://ubuntuforums.org/showthread.php?t=352460) </br>
-could work as a guide if using [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray) 25 GB (1-layer), 50 / 66 GB (2-layer) & 100 / 128 GB (BDXL) </br>
+could work as a guide if using [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray) 25 GB (1-layer), 50 / 66 GB (2-layer) & 100 / 128 GB (4-Layer BDXL) </br>
 
 # New Method
 
