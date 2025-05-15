@@ -26,6 +26,11 @@ There are other mirrors like: </br>
 [packages.ubuntu.com](https://packages.ubuntu.com/) </br>
 [pkgs.org](https://pkgs.org/) </br>
 
+personally i prefer .AppImages when possible, </br>
+but Not everything is available as .Appimages </br>
+Snap is ok </br>
+Flatpak avoid when possible. </br>
+
 # New Method
 
 Portable Offline Ubuntu 20.04.x LTS Repository </br>
